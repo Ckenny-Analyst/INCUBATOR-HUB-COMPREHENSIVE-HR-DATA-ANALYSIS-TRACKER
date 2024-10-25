@@ -13,12 +13,15 @@ This is a project consisting of the HR Metrics and Insights Tracker for Incubato
 ### Data source description
    
 The data for this project was gotten from Incubator Hub Data Analysis Class.
+
 ![HR Data Overview](https://github.com/user-attachments/assets/ddc96d6d-ee01-4650-a2f8-fa5074bbead9)    
 
 ### Data cleaning and preprocessing
    
    In the phase of the data cleaning and preparation, the following actions were performed using the transformtaion tab in Power BI.
+   
    Below is an example of the steps used in cleaning few columns in the HR Data:
+   
     - Data Loading and Inspection
     - Handling missing variables
     - Data cleaning and formatting
