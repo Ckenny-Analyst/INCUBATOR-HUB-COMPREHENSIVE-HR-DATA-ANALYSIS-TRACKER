@@ -4,8 +4,8 @@
 This is a project consisting of the HR Metrics and Insights Tracker for Incubator Hub. Analyzing employee attrition and job satisfaction across various demographics, identifying trends and key drivers.
 
 ### Key Focus Areas
-1. Attrition count and rate
-2. Current and total employee count
+1. Current and total employee count
+2. Attrition count and rate
 3. Job satisfaction rating by Educational field and Job role
 4. Attrition trends across Department, Gender, Age, Educational field
 
@@ -25,6 +25,7 @@ The data for this project was gotten from Incubator Hub Data Analysis Class.
     - Data Loading and Inspection
     - Handling missing variables
     - Data cleaning and formatting
+    
     ![HR Data Cleaning](https://github.com/user-attachments/assets/236ce70b-883f-4bea-b485-841d8a498882)
 
 ### Data visualization: Power Bi was used for the data analysis and visualization.
